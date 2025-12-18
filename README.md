@@ -95,7 +95,3 @@ VidSpeak is a simple yet useful application that demonstrates:
 - File handling in Python  
 
 It helps users listen to text content and generate notes from videos efficiently.
-
----
-
-⭐ If you like this project, don’t forget to star the repository!
